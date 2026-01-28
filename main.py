@@ -3,3 +3,5 @@ def input_name():
     print(f'{name}님, 반갑습니다!')
 
 input_name()
+
+print('감기 조심하세요')
